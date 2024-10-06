@@ -58,7 +58,7 @@
 ## Boolean Algebra
   * [And Gate](Coming soon...)
   * [Imply Gate](Coming soon...)
-  * [Karnaugh Map Simplification](https://runtimehub.com/p/Alg-Python@20240917:boolean_algebra.karnaugh_map_simplification/)
+  * [Karnaugh Map Simplification](https://runtimehub.com/p/algorithms-python@20240917:boolean_algebra.karnaugh_map_simplification/)
   * [Multiplexer](Coming soon...)
   * [Nand Gate](Coming soon...)
   * [Nimply Gate](Coming soon...)
